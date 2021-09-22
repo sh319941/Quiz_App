@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      "questionText": "Name of the screen that recognizes touch input is?",
+      "answerOptions": [
+          { "answerText":"Recog screen", "isCorrect":false },
+          { "answerText":"Point Screen", "isCorrect": false },
+          { "answerText":"Touch Screen", "isCorrect": true },
+          { "answerText":"Android Screen","isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Identify the device through which data and instructions are entered into a computer?",
+      "answerOptions": [
+          { "answerText":"Software", "isCorrect":false },
+          { "answerText":"Output device", "isCorrect": false },
+          { "answerText":"Input device", "isCorrect": true },
+          { "answerText":"Memory", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything in React is a _____________?",
+      "answerOptions": [
+          { "answerText":"Module", "isCorrect":false },
+          { "answerText":"Component","isCorrect": true },
+          { "answerText":"Package", "isCorrect": false },
+          { "answerText":"Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "How many elements does a react component return?",
+      "answerOptions": [
+          { "answerText":"2 Elements", "isCorrect":false },
+          { "answerText":"1 Element","isCorrect": false },
+          { "answerText":"Multiple Elemants", "isCorrect": true },
+          { "answerText":"None of These", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is state in React?",
+      "answerOptions": [
+          { "answerText":"A persistant storage", "isCorrect":false },
+          { "answerText":"Local variable","isCorrect": false },
+          { "answerText":"An internal data store (object) of a component", "isCorrect": true },
+          { "answerText":"None of These", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "What is Babel?",
+      "answerOptions": [
+          { "answerText":"A transpiler", "isCorrect":false },
+          { "answerText":"An interpreter","isCorrect": false },
+          { "answerText":"A Compiler", "isCorrect": false},
+          { "answerText":"Both Compiler and Transpilar", "isCorrect": true }
+      ]
+    },
+    {
+      "questionText": "What is ReactJS?",
+      "answerOptions": [
+          { "answerText":"Server side Framework", "isCorrect":false },
+          { "answerText":"User-interface framework","isCorrect": false },
+          { "answerText":"A Library for building interaction interfaces", "isCorrect": true},
+          { "answerText":"None of These", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In React what is used to pass data to a component from outside?",
+      "answerOptions": [
+          { "answerText":"props", "isCorrect":true },
+          { "answerText":"setState","isCorrect": false },
+          { "answerText":"render with arguments", "isCorrect": false},
+          { "answerText":"PropTypes", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "ReactJS uses _____ to increase performance",
+      "answerOptions": [
+          { "answerText":"Original DOM", "isCorrect":false },
+          { "answerText":"Virtual DOM","isCorrect": true },
+          { "answerText":"Both 1 & 2", "isCorrect": false},
+          { "answerText":"None of above", "isCorrect": false }
+      ]
+    }
+    
+  ]
+  }
